@@ -61,12 +61,6 @@ A pre-trained **Chronos** encoder was adapted to the task using **LoRA**, along 
 - **Cross-Entropy Loss**
 - **Focal Loss**
 
-## Main takeaway
-
-The baseline **ResNet** provided a solid reference, but its performance remained strongly affected by the class imbalance of the LSST dataset.
-
-The adapted **Chronos** model performed better overall, and the use of **Focal Loss** improved the treatment of minority classes by reducing the bias toward majority-class predictions.
-
 ## Requirements
 
 Main libraries used in the notebook:
