@@ -1,4 +1,4 @@
-# Fundation-Model-Adapation-for-Time-Series-Classification-on-LSST-dataset
+# Fundation Model Adapation for Time Series Classification on LSST-dataset
 Deep Learning for Time Series : Fundation Model Adaptation for time series classification on lsst dataset
 
 This repository contains a notebook dedicated to **multivariate time series classification** on the **LSST** dataset from the UCR/UEA archive.
