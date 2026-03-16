@@ -67,6 +67,7 @@ Main libraries used in the notebook:
 
 - `numpy`
 - `matplotlib`
+- `seaborn`
 - `torch`
 - `scikit-learn`
 - `tslearn`
